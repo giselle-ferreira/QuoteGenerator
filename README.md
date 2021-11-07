@@ -12,7 +12,7 @@
 <br>
 
 >## Website 💻
-+ [Quote Of The Day](https://pomodoroapp-vanillajs.netlify.app/)
++ [Quote Of The Day](https://quoteoftheday-vanillajs.netlify.app/)
 
 <br>
 
